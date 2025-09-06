@@ -21,11 +21,11 @@ This project provides a complete Ubuntu 22.04 environment for Termux on Android 
 ## Installation Instructions
 
 1. **Download the system image**  
-   - Download `andronix_os.tar.xz` from the [GitHub release assets](https://github.com/USERNAME/REPO/releases).
+   - Download `andronix_os.tar.xz` from the [GitHub release assets](https://github.com/deepaksahani877/ubuntu-22.04-for-termux/releases).
 
 2. **Clone this repository**
 ```bash
-git clone https://github.com/USERNAME/REPO.git
+git clone https://github.com/deepaksahani877/ubuntu-22.04-for-termux.git
 cd REPO
 ```
 Ensure `andronix_os.tar.xz` is in the same directory as `install.sh`.
