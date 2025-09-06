@@ -1,4 +1,4 @@
-# Andronix OS for Termux
+# Ubuntu 22.04 OS for Termux
 
 **Full Ubuntu 22.04 System Image Optimized for Termux**
 
